@@ -1,8 +1,12 @@
 # RoomUIS_project
 PROJECT TITLE: RoomUIS
+
 PURPOSE OF PROJECT: Conectar a personas que arriendan habitaciones con estudiantes de la UIS.
+
 VERSION or DATE: 17/09/2020
+
 HOW TO START THIS PROJECT:
+
 Se usó Apache NetBeans IDE 12.0 junto con Xampp 7.4.10.
 Para iniciarlo se deben seguir los siguientes pasos:
 - Abrir Xampp y darle a Run a "Apache" y "MySQL".
