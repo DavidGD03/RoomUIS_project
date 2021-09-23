@@ -15,5 +15,7 @@ Para iniciarlo se deben seguir los siguientes pasos:
 - Subirle el contenido del archivo bd.sql.
 - Abrir la carpeta del proyecto con NetBeans.
 - Ejecutar con NetBeans el main.java ubicado en la carpeta Interfaz.
+
 AUTHORS: David Rojas y Julián Rodríguez
+
 USER INSTRUCTIONS: Cuando se ejecute el main.java debe seleccionar entre 3 roles diferenciados en la app: arrendador, estudiante o administrador. Luego de esto se deberá registrar y posteriormente le aparecerán distintas opciones dependiendo del usuario que seleccionó.
